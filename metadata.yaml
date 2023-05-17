@@ -1,0 +1,35 @@
+_repo: Scenas-do-seculo-18-em-Portugal_70672
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carvalho, Maria Amalia Vaz de
+    aliases:
+    - Carvalho, Maria Amália Vaz de
+    - De Carvalho, Maria Amalia Vaz
+    - Vaz de Carvalho, Maria Amalia
+    birthdate: 1847
+    deathdate: 1921
+    gutenberg_agent_id: '31923'
+    url: http://www.gutenberg.org/2009/agents/31923
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Maria_Am%C3%A1lia_Vaz_de_Carvalho
+    - https://pt.wikipedia.org/wiki/Maria_Am%C3%A1lia_Vaz_de_Carvalho
+description: ''
+gutenberg_issued: '2023-04-29'
+identifiers:
+  gutenberg: '70672'
+language: pt
+pgterms:marc904: https://archive.org/details/scenasdosculo100vazd/page/2/mode/2up
+pgterms:marc905: 20220909171126mariaamali
+pgterms:marc906: '1920'
+pgterms:marc907: PT
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aPortugal :$bSociedade Editora, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Scenas do século 18 em Portugal
+url: http://www.gutenberg.org/ebooks/70672
