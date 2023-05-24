@@ -1,5 +1,8 @@
 _repo: Scenas-do-seculo-18-em-Portugal_70672
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70672-h/images/cover.jpg
 creator:
   author:
     agent_name: Carvalho, Maria Amalia Vaz de
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Maria_Am%C3%A1lia_Vaz_de_Carvalho
     - https://pt.wikipedia.org/wiki/Maria_Am%C3%A1lia_Vaz_de_Carvalho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70672#Scenas-do-seculo-18-em-Portugal
 gutenberg_issued: '2023-04-29'
 identifiers:
   gutenberg: '70672'
